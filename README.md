@@ -10,6 +10,6 @@ Maker Media GmbH
 
 Hier findet ihr die für das Projekt benötigten Sketche.
 
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 4/25(https://www.heise.de/select/make/2025/4)**.
+Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 4/25](https://www.heise.de/select/make/2025/4)**.
 
 ![Aufmacherbild aus dem Heft](https://github.com/MakeMagazinDE/Zauberwuerfel/blob/main/Bild%2001%20-%2020250409_001212.jpg)
