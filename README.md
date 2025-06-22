@@ -4,13 +4,11 @@ Maker Media GmbH
 
 ***
 
-# Projektname
+# Der hilfreiche Zauberwürfel
 
-## Erklärende Unterzeile (optional)
+**Damit das Spielen mit dem Rubik’s Cube anschaulicher wird und noch mehr Spaß macht, habe ich einen großen LED-Würfel gebaut. Er zeigt die aktuelle Stellung eines normalgroßen, mit Bluetooth verbundenen Rubik’s Cubes an und gibt über Animationen Tipps zum optimalen Lösungsweg.**
 
-**Vorspann aus dem Heft**
-
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
+![Aufmacherbild aus dem Heft](https://github.com/MakeMagazinDE/Zauberwuerfel/blob/main/Bild%2001%20-%2020250409_001212.jpg)
 
 ## Wer den Aufmacher skalieren muss:
 <img src="./doc/Aufmacher.JPG" width="50%" height="50%">
