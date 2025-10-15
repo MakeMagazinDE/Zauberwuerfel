@@ -4,7 +4,6 @@
  *
  * Using https://github.com/playfultechnology/esp32-smartcube for BLE structure and 
  * protocol information from https://github.com/Flying-Toast/qiyi_smartcube_protocol
- * AES library: https://github.com/suculent/thinx-aes-lib
  * MODBUS-CRC16: https://github.com/LacobusVentura/MODBUS-CRC16/
  * c.f. a different implementation of the protocol: https://github.com/cs0x7f/cstimer
 */
